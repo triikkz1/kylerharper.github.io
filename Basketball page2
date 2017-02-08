@@ -1,0 +1,70 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <title>Siks Sneak's</title>
+
+  <meta name="description" content="HTML5 Template">
+
+</head>
+
+<body>
+
+  <h1> Siks Sneak's </h1>
+  <h2> Basketball </h2>
+
+  
+  img src ="NikeSnkr.jpg" alt="Nike Shoe" width="62" height="62"
+
+  
+<p>Hello and welcome to my sneaker site! My vision for this website is to allow you to not only come here to purchase highly sought after sneakers, 
+
+  but also to bring your own collection and see what's out there to trade, or sell! I want to turn this website into a community and hope to satisfy customers from all over the globe.
+
+  The sneaker community is a beautiful one with much to be had, so find your pair of "Holy Grail's" and start your own collection today!</p>
+
+  
+
+  img src ="funky-bananna.jpg" alt="Leather Jacket Nana" width="42" height="42"
+  
+  
+ <table border="1">
+ <tr>
+ <th>Name</th>
+ <th>Color</th>
+ </tr>
+ <tr>
+ <td>LeBron 9</td>
+ <td>black/black</td>
+ </tr>
+ <tr>
+ <td>LeBron 14</td>
+ <td>multi/volt/grey</td>
+ </tr>
+ <tr>
+ <td>Kobe 6</td>
+ <td>volt/black/red</td>
+ </tr>
+ <tr>
+ <td>Durant 4</td>
+ <td>pearl/pink/white</td>
+ </tr>
+ <tr>
+ <td>Air Force Mid</td>
+ <td>white/white</td>
+ </tr>
+ </table>
+ 
+ img src
+
+  
+
+</body>
+
+  
+
+</html>
