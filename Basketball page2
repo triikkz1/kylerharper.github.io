@@ -4,7 +4,7 @@
 
 <head>
 
-  <meta charset="utf-8">
+  <meta charset="utf-8"> 
 
   <title>Siks Sneak's</title>
 
@@ -59,7 +59,26 @@
  </tr>
  </table>
  
- img src=
+ <img src="bron-9.jpg" alt="Basketball Item#1" width="150" length="150>
+ <p>All black goes with everything. Laced with Zoom Air technology this shoe is sure to bring dominance on and off the court. Retail:$160.00</p>
+ 
+ <img src="bron-14.jpg" alt="Basketball Item#2" width="150" length="150>
+ <p>The shoe that sums up last seasons NBA finals match. With the Warriors up 3-1 and ready to celebrate early, LeBron and the Cav's pulled off winning 3 straight "Out Of Nowhere" and took the crown! Zoom technology returns to suit the Kings feet and the colorway is spot on.
+ Retail:$175.00</p>
+ 
+ <img src=kobe-6.jpg" alt="Basketball Item#3" width="150" length="150">
+ <p>Dubbed the "Grinches", it seems to fit the Black Mamba as he wore these during a Christmas day game against D.Wade and the Miami Heat. Wrapped in a lime green base, this shoe is a neck breaker as well as ankle breakers if need be.
+ Retail:$150.00</p>
+ 
+ <img src="kd-4.jpg" alt="Basketball Item#4" width="150" length="150">
+ <p>Kevin Durant is not only a force to be reckoned with on the court, but his good guy mentality can throw a curveball at you off the court. Dedicated to his Aunt Pearl who battled with cancer, he made sure to spread awareness each and every year with a shoe covered in all pink.Great feel on and off the court.
+ Retail:$120.00</p>
+ 
+ <img src="AF1.jpg" alt="Basketball Item#5" width="150" length="150">
+ <p>Classic Air Force Ones are iconic to the game of basketball and more recent than ever, in fashion. All white is the silloutte of the sneaker, with a strap for ankle support if you're hooping this shoes is perfect for any occassion.
+ Retail:$150.00</p>
+ 
+ <a href="triikkz1.github.io/index.htm" target="_blank" Website</a>
 
   
 
