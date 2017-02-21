@@ -28,6 +28,15 @@
     <input type="radio" name="subject" value="question"> Question
     <input type="radio" name="subject" value="problem"> Problem
     <input type="radio" name="subject" value="order status update"> Order Status Update
+    <br>
+    <textarea name="comments" id="comments" cols="25" rows="3"></textarea>
+    <br>
+    <input type="submit" value="submit"/>
+    <input type="reset" value="reset"/>
+    <br>
+    </br>
+    
+    <a href="https://triikkz1.github.io/"> Homepage link</a>
   </form>
   
 </body>
