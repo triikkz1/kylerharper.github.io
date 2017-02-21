@@ -22,6 +22,8 @@
   
   <a href="triikkz1.github.io/sneakerPage 1" target="_blank"> Sneaker Page</a>
    <a href="triikkz1.github.io/Basketball page2" target="_blank"> Basketball page</a>
+   
+   <a href="triikkz1.github.io/Contact Us" target="_blank"> Contact Us</a> 
   
   
 </body>
