@@ -20,8 +20,8 @@
   but also to bring your own collection and see what's out there to trade, or sell! I want to turn this website into a community and hope to satisfy customers from all over the globe.
   The sneaker community is a beautiful one with much to be had, so find your pair of "Holy Grail's" and start your own collection today!</p>
   
-   <a href="triikkz1.github.io/sneakerPage 1" target="_blank" <Sneaker Page</a>
-   <a href="triikkz1.github.io/Basketball page2" target="_blank" <Basketball Page</a>
+  <a href="triikkz1.github.io/sneakerPage 1" target="_blank"> Sneaker Page</a>
+   <a href="triikkz1.github.io/Basketball page2" target="_blank"> Basketball page</a>
   
   
 </body>
